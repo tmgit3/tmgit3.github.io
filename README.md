@@ -1,7 +1,7 @@
 
 
-<a href="https://tmgit3.github.io/backyard/")/">HTML</a> |
-<a href="https://tmgit3.github.io/hello/">CSS</a> |
+<a href="/https://tmgit3.github.io/backyard/")/">HTML</a> |
+<a href="/https://tmgit3.github.io/hello/">CSS</a> |
 <a href="/https://tmgit3.github.io/git-hello/">JavaScript</a> |
 <a href="/www.google.com/">Python</a>
 
